@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MarketCatsToolkit.github.io/static/css/main.220e5391.css",
+    "main.css": "/MarketCatsToolkit.github.io/static/css/main.f77d6cbe.css",
     "main.js": "/MarketCatsToolkit.github.io/static/js/main.655b3575.js",
     "static/media/thenksNews.gif": "/MarketCatsToolkit.github.io/static/media/thenksNews.d3b9dbf660a8a4229862.gif",
     "static/media/emptyFavorite.png": "/MarketCatsToolkit.github.io/static/media/emptyFavorite.0f86665110d9fa497ff0.png",
@@ -29,11 +29,11 @@
     "static/media/like2.svg": "/MarketCatsToolkit.github.io/static/media/like2.ab838ef79b1cb165f23fe3f7b8f197d6.svg",
     "static/media/logo.svg": "/MarketCatsToolkit.github.io/static/media/logo.84a32615e4499648725fcbadb7eef096.svg",
     "static/media/line.svg": "/MarketCatsToolkit.github.io/static/media/line.dcf4108bbf5cf758b12891c0a857315d.svg",
-    "main.220e5391.css.map": "/MarketCatsToolkit.github.io/static/css/main.220e5391.css.map",
+    "main.f77d6cbe.css.map": "/MarketCatsToolkit.github.io/static/css/main.f77d6cbe.css.map",
     "main.655b3575.js.map": "/MarketCatsToolkit.github.io/static/js/main.655b3575.js.map"
   },
   "entrypoints": [
-    "static/css/main.220e5391.css",
+    "static/css/main.f77d6cbe.css",
     "static/js/main.655b3575.js"
   ]
 }
